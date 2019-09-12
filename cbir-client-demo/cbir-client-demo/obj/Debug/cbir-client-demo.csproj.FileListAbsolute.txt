@@ -1,0 +1,10 @@
+D:\ml\codes\cbir-image-search-engine\cbir-client-demo\cbir-client-demo\bin\Debug\cbir-client-demo.exe
+D:\ml\codes\cbir-image-search-engine\cbir-client-demo\cbir-client-demo\bin\Debug\cbir-client-demo.pdb
+D:\ml\codes\cbir-image-search-engine\cbir-client-demo\cbir-client-demo\obj\Debug\cbir-client-demo.csprojResolveAssemblyReference.cache
+D:\ml\codes\cbir-image-search-engine\cbir-client-demo\cbir-client-demo\obj\Debug\cbir_client_demo.Form1.resources
+D:\ml\codes\cbir-image-search-engine\cbir-client-demo\cbir-client-demo\obj\Debug\cbir_client_demo.Properties.Resources.resources
+D:\ml\codes\cbir-image-search-engine\cbir-client-demo\cbir-client-demo\obj\Debug\cbir-client-demo.csproj.GenerateResource.Cache
+D:\ml\codes\cbir-image-search-engine\cbir-client-demo\cbir-client-demo\obj\Debug\cbir-client-demo.exe
+D:\ml\codes\cbir-image-search-engine\cbir-client-demo\cbir-client-demo\obj\Debug\cbir-client-demo.pdb
+D:\ml\codes\cbir-image-search-engine\cbir-client-demo\cbir-client-demo\bin\Debug\Newtonsoft.Json.dll
+D:\ml\codes\cbir-image-search-engine\cbir-client-demo\cbir-client-demo\bin\Debug\Newtonsoft.Json.xml

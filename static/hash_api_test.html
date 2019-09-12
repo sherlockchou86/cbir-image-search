@@ -1,0 +1,18 @@
+
+
+<html>
+    <form action="/hash-search" method="post" enctype="multipart/form-data">
+        hash type:
+        <select name="query_hash_type">
+            <option value="0">ahash</option>
+            <option value="1">phash</option>
+            <option value="2">dhash</option>
+        </select>
+        max distance:
+        <input type="text" name="max_distance">
+        query image:
+        <input type="file" name="query_image">
+
+        <input type="submit" value="query">
+    </form>
+</html>

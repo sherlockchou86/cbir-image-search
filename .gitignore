@@ -102,3 +102,14 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+# image files
+.jpg
+.jpeg
+.png
+
+# pickle files
+.pickle
+
+# vscode
+.vscode/

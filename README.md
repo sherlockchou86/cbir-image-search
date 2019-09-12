@@ -7,3 +7,5 @@ use image hash, region-based color histogram to create image search engine(CBIR)
 3. search images which are similar with those in static/images_sources directory
 
 you can delete .pickle file to recreate cache if you have any more image file to be tested in image_sources directory
+
+![](https://github.com/sherlockchou86/cbir-image-search/blob/master/demo.jpg)
